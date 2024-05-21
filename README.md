@@ -30,7 +30,7 @@ This documentation outlines the steps required to set up a Django project with F
 1. Create a new Jupyter notebook. ![](Aspose.Words.d8d404f8-2adf-43eb-b1c9-0744cb870893.010.png)
 1. Use Pandas to process your CSV file. 
 
-**Importing Data into PostgreSQL with Django and FastAPI ![](Aspose.Words.d8d404f8-2adf-43eb-b1c9-0744cb870893.011.png)Step 1: Create a Django Project** 
+**Importing Data into PostgreSQL from the clean_food_truck.csv to database ![](Aspose.Words.d8d404f8-2adf-43eb-b1c9-0744cb870893.011.png)Step 1: Create a Django Project** 
 
 1\.  Run the command: **django-admin startproject myproject**. ![](Aspose.Words.d8d404f8-2adf-43eb-b1c9-0744cb870893.012.png)
 
